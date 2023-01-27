@@ -262,11 +262,6 @@ a {
   background: var(--color-headings);
   color: #fff; 
 }
-/* TODO:revise */
-.btn--inline {
-  background: var(--color-headings);
-  color: #fff;
-}
 
 @media screen and (min-width: 1024px) {
   .btn {
